@@ -33,3 +33,17 @@
 .incorrect {
   background-color: #dc3545;
 }
+
+#info{
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-text{
+  text-align: center;
+  font-size: 2rem;
+}
+
+.info-main-text{
+  text-align: center;
+}
