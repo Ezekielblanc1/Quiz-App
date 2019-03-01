@@ -65,7 +65,7 @@ const startGame = () => {
     getNewQuestion();
     game.classList.remove("hidden");
     loader.classList.add("hidden")
-  },5000)
+  },20000)
 }
 
 
